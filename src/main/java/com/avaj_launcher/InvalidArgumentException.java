@@ -1,0 +1,7 @@
+package com.avaj_launcher;
+
+class InvalidArgumentException extends Exception {
+    public InvalidArgumentException(String message) {
+        super(message);
+    }
+}

@@ -1,0 +1,202 @@
+Tower says: Balloon#B1(1) registered to weather tower.
+Tower says: Balloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Balloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Tower says: Balloon#Ahmed(10) registered to weather tower.
+----------------------------------
+Balloon#B1(1): SPECIFIC_MESSAGE RAIN
+Balloon#B2(2): SPECIFIC_MESSAGE SNOW
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H2(5): SPECIFIC_MESSAGE FOG
+Helicopter#H3(6): SPECIFIC_MESSAGE RAIN
+Balloon#B3(7): SPECIFIC_MESSAGE FOG
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+Balloon#Ahmed(10): SPECIFIC_MESSAGE RAIN
+Tower says: Balloon#Ahmed(10) unregistered from weather tower.
+----------------------------------
+Balloon#B1(1): SPECIFIC_MESSAGE RAIN
+Balloon#B2(2): SPECIFIC_MESSAGE RAIN
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H2(5): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE FOG
+Balloon#B3(7): SPECIFIC_MESSAGE FOG
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+----------------------------------
+Balloon#B1(1): SPECIFIC_MESSAGE SNOW
+Tower says: Balloon#B1(1) unregistered from weather tower.
+Balloon#B2(2): SPECIFIC_MESSAGE FOG
+JetPlane#J1(3): SPECIFIC_MESSAGE FOG
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H2(5): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE FOG
+Balloon#B3(7): SPECIFIC_MESSAGE RAIN
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE SUN
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE RAIN
+JetPlane#J1(3): SPECIFIC_MESSAGE FOG
+Helicopter#H1(4): SPECIFIC_MESSAGE SUN
+Helicopter#H2(5): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE RAIN
+Balloon#B3(7): SPECIFIC_MESSAGE FOG
+JetPlane#J2(8): SPECIFIC_MESSAGE FOG
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE SUN
+JetPlane#J1(3): SPECIFIC_MESSAGE SUN
+Helicopter#H1(4): SPECIFIC_MESSAGE FOG
+Helicopter#H2(5): SPECIFIC_MESSAGE SNOW
+Helicopter#H3(6): SPECIFIC_MESSAGE FOG
+Balloon#B3(7): SPECIFIC_MESSAGE RAIN
+JetPlane#J2(8): SPECIFIC_MESSAGE FOG
+Helicopter#H4(9): SPECIFIC_MESSAGE FOG
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE RAIN
+JetPlane#J1(3): SPECIFIC_MESSAGE SUN
+Helicopter#H1(4): SPECIFIC_MESSAGE SUN
+Helicopter#H2(5): SPECIFIC_MESSAGE SNOW
+Helicopter#H3(6): SPECIFIC_MESSAGE FOG
+Balloon#B3(7): SPECIFIC_MESSAGE SNOW
+Tower says: Balloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE RAIN
+JetPlane#J1(3): SPECIFIC_MESSAGE FOG
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H2(5): SPECIFIC_MESSAGE SUN
+Helicopter#H3(6): SPECIFIC_MESSAGE SNOW
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE FOG
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE SNOW
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H2(5): SPECIFIC_MESSAGE SNOW
+Helicopter#H3(6): SPECIFIC_MESSAGE SUN
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE FOG
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE RAIN
+JetPlane#J1(3): SPECIFIC_MESSAGE FOG
+Helicopter#H1(4): SPECIFIC_MESSAGE FOG
+Helicopter#H2(5): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE RAIN
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE SNOW
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE SUN
+JetPlane#J1(3): SPECIFIC_MESSAGE SUN
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H2(5): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE RAIN
+JetPlane#J2(8): SPECIFIC_MESSAGE FOG
+Helicopter#H4(9): SPECIFIC_MESSAGE FOG
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE RAIN
+JetPlane#J1(3): SPECIFIC_MESSAGE SUN
+Helicopter#H1(4): SPECIFIC_MESSAGE SNOW
+Helicopter#H2(5): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE FOG
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE RAIN
+JetPlane#J1(3): SPECIFIC_MESSAGE SUN
+Helicopter#H1(4): SPECIFIC_MESSAGE FOG
+Helicopter#H2(5): SPECIFIC_MESSAGE FOG
+Helicopter#H3(6): SPECIFIC_MESSAGE SUN
+JetPlane#J2(8): SPECIFIC_MESSAGE FOG
+Helicopter#H4(9): SPECIFIC_MESSAGE FOG
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE FOG
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H2(5): SPECIFIC_MESSAGE SNOW
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): SPECIFIC_MESSAGE FOG
+JetPlane#J2(8): SPECIFIC_MESSAGE SUN
+Helicopter#H4(9): SPECIFIC_MESSAGE FOG
+----------------------------------
+Balloon#B2(2): SPECIFIC_MESSAGE RAIN
+Tower says: Balloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): SPECIFIC_MESSAGE FOG
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE RAIN
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE SNOW
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE RAIN
+JetPlane#J2(8): SPECIFIC_MESSAGE FOG
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE FOG
+JetPlane#J2(8): SPECIFIC_MESSAGE FOG
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE FOG
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE RAIN
+JetPlane#J2(8): SPECIFIC_MESSAGE FOG
+Helicopter#H4(9): SPECIFIC_MESSAGE FOG
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE FOG
+Helicopter#H1(4): SPECIFIC_MESSAGE FOG
+Helicopter#H3(6): SPECIFIC_MESSAGE SNOW
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE SUN
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE FOG
+Helicopter#H3(6): SPECIFIC_MESSAGE FOG
+JetPlane#J2(8): SPECIFIC_MESSAGE FOG
+Helicopter#H4(9): SPECIFIC_MESSAGE SUN
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE RAIN
+JetPlane#J2(8): SPECIFIC_MESSAGE SUN
+Helicopter#H4(9): SPECIFIC_MESSAGE SUN
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE FOG
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE SNOW
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE SUN
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE FOG
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE RAIN
+Helicopter#H1(4): SPECIFIC_MESSAGE SUN
+Helicopter#H3(6): SPECIFIC_MESSAGE SUN
+JetPlane#J2(8): SPECIFIC_MESSAGE SUN
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE FOG
+Helicopter#H1(4): SPECIFIC_MESSAGE RAIN
+Helicopter#H3(6): SPECIFIC_MESSAGE RAIN
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE RAIN
+----------------------------------
+JetPlane#J1(3): SPECIFIC_MESSAGE SUN
+Helicopter#H1(4): SPECIFIC_MESSAGE FOG
+Helicopter#H3(6): SPECIFIC_MESSAGE SUN
+JetPlane#J2(8): SPECIFIC_MESSAGE RAIN
+Helicopter#H4(9): SPECIFIC_MESSAGE SUN
