@@ -16,22 +16,22 @@ public class JetPlane extends Aircraft {
                 // SUN - Latitude increases with 10, Height increases with 2
                 coordinate.incLatitude(10);
                 coordinate.incHeight(2);
-                Simulation.print(toString() + ": SPECIFIC_MESSAGE " + weather);
+                Simulation.print(toString() + ": The sun is shining! Ascending steadily and cruising forward " + weather);
             } break;
             case "RAIN": {
                 // RAIN - Latitude increases with 5
                 coordinate.incLatitude(5);
-                Simulation.print(toString() + ": SPECIFIC_MESSAGE " + weather);
+                Simulation.print(toString() + ": Raindrops ahead! Pushing through with steady progress. " + weather);
             } break;
             case "FOG": {
                 // FOG - Latitude increases with 1
                 coordinate.incLatitude(1);
-                Simulation.print(toString() + ": SPECIFIC_MESSAGE " + weather);
+                Simulation.print(toString() + ": Fog is thick. Moving cautiously, little by little. " + weather);
             } break;
             case "SNOW": {
                 // SNOW - Height decreases with 7
                 coordinate.decHeight(7);
-                Simulation.print(toString() + ": SPECIFIC_MESSAGE " + weather);
+                Simulation.print(toString() + ": Snowstorm encountered! Losing altitude, stay alert. " + weather);
             } break;
         }
         landed();
