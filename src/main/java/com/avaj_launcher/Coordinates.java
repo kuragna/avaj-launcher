@@ -9,7 +9,13 @@ public class Coordinates {
     private int latitude;
     private int height;
 
-    public Coordinates(int p_longitude, int p_latitude, int p_height) {
+    public Coordinates(int p_longitude, int p_latitude, int p_height) throws Exception {
+        if (p_height < 0 || p_height > HEIGHT_MAX) {
+            throw new InvalidCoordinatesException("Invalid height: " + p_height);
+        }
+        if (p_longitude < 0 || p_latitude < 0) {
+            throw new InvalidCoordinatesException("Longitude or latitude is negative: " + p_longitude + ", " + p_latitude);
+        }
         longitude = p_longitude;
         latitude  = p_latitude;
         height    = p_height;

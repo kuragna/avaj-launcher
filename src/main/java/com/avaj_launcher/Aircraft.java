@@ -28,6 +28,7 @@ public class Aircraft extends Flyable
 
     public void landed() {
         if (coordinate.getHeight() == Coordinates.HEIGHT_MIN) {
+            Simulation.print(toString() + " landing.");
             weatherTower.unregister(this);
         }
     }

@@ -41,7 +41,6 @@ class Simulation {
 
     public void run() {
         for (int i = 0; i < numberOfIteration; i += 1) {
-            Simulation.print("----------------------------------");
             weatherTower.changeWeather();
         }
         outFile.close();
