@@ -3,3 +3,4 @@
 find * -name "*.java" > sources.txt
 javac @sources.txt
 java -cp src/main/java com.avaj_launcher.Main $1
+rm src/main/java/com/avaj_launcher/*.class

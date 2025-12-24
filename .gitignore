@@ -1,4 +1,5 @@
 *.class
-sources.txt
-simulation.txt
+*.txt
+*.pdf
+*.puml
 .git
