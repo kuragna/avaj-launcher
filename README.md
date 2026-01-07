@@ -1,9 +1,5 @@
 # Avaj Launcher
 
-A Java-based aircraft simulation program that demonstrates design patterns and object-oriented programming principles through weather-based aircraft behavior simulation.
-
-## Overview
-
 Avaj Launcher simulates the flight of various aircraft types responding to different weather conditions. The program implements the Observer pattern, where aircraft register with a weather tower and receive weather updates that affect their behavior.
 
 ## Features
